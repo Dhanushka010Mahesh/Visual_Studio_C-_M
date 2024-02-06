@@ -1,0 +1,199 @@
+Data source=(LocalDB)\MSSQLLocalDB
+
+datasoruce =Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\SYSTE\OneDrive\Documents\eduClubdb.mdf;Persist Security Info=True;User ID=root;Connect Timeout=30
+
+name=root
+code=root
+
+
+
+
+private void errorMemberDetails()
+{
+
+
+    MemberDetailsError.Clear();
+    //check members id
+    if (string.IsNullOrWhiteSpace(txtAddingMemberID.Text))
+    {
+        MemberDetailsError.SetError(txtAddingMemberID, "Member Id is not valid");
+        checkMemberId = false;
+    }
+    else
+    {
+        checkMemberId = true;
+    }
+    //check members name
+    if (string.IsNullOrWhiteSpace(txtAddingName.Text))
+    {
+        MemberDetailsError.SetError(txtAddingName, "Member Name is not valid");
+        checkmemberName = false;
+    }
+    else
+    {
+        checkmemberName = true;
+    }
+    //check Member nic number
+    if (string.IsNullOrWhiteSpace(txtAddingNic.Text))
+    {
+        MemberDetailsError.SetError(txtAddingNic, "member NIC number is not valid");
+        checkMemberNIC = false;
+    }
+    else
+    {
+        checkMemberNIC = true;
+    }
+    //combobox value
+    if (comAddingProvince.Text == string.Empty)
+    {
+        MemberDetailsError.SetError(comAddingProvince, "select province your");
+        checkProvince = false;
+    }
+    else
+    {
+        checkProvince = true;
+    }
+
+    //check gender and date
+    if (dtpAddingBirth.Text == "12/27/2002")
+    {
+        MemberDetailsError.SetError(dtpAddingBirth, "member NIC number is not valid");
+        checkDOB = false;
+    }
+    else
+    {
+        checkDOB = true;
+    }
+    if(rdoAddingMale.Checked == false && rdoAddingFemale.Checked == false)
+    {
+        MemberDetailsError.SetError(rdoAddingFemale, "member NIC number is not valid");
+        checkGender1 = false;
+    }
+    else
+    {
+        checkGender1=true;
+    }
+
+
+    //check campus name
+    if (string.IsNullOrWhiteSpace(txtAddingCampusName.Text))
+    {
+        MemberDetailsError.SetError(txtAddingCampusName, "member campus name is not valid");
+        checkMemberCampus = false;
+    }
+    else
+    {
+        checkMemberCampus = true;
+    }
+    //check faculty
+    if (string.IsNullOrWhiteSpace(txtAddingFacalty.Text))
+    {
+        MemberDetailsError.SetError(txtAddingFacalty, "member Campus Faculty is not valid");
+        checkMemberFaculty = false;
+    }
+    else
+    {
+        checkMemberFaculty = true;
+    }
+    //check address
+    if (string.IsNullOrWhiteSpace(txtAddingAddress.Text))
+    {
+        MemberDetailsError.SetError(txtAddingAddress, "member address  is not valid");
+        checkMemberAddress = false;
+    }
+    else
+    {
+        checkMemberAddress = true;
+    }
+    //check age
+    if (string.IsNullOrWhiteSpace(txtAddingAge.Text))
+    {
+        MemberDetailsError.SetError(txtAddingAge, "member age is not valid");
+        checkMemberAge = false;
+    }
+    else
+    {
+        checkMemberAge = true;
+    }
+    //check telephne
+    if (string.IsNullOrWhiteSpace(txtAddingTelephone.Text))
+    {
+        MemberDetailsError.SetError(txtAddingTelephone, "member phone number is not valid");
+        checkMemberTel = false;
+    }
+    else
+    {
+        checkMemberTel = true;
+    }
+    //check email
+    if (string.IsNullOrWhiteSpace(txtAddingEmail.Text))
+    {
+        MemberDetailsError.SetError(txtAddingEmail, "member  email address is not valid");
+        checkMemberEmail = false;
+    }
+    else
+    {
+        checkMemberEmail = true;
+    }
+
+    //If all details valid , do this one
+    if (checkMemberId == true && checkmemberName == true && checkMemberNIC == true
+        && checkMemberCampus == true && checkMemberFaculty == true && checkMemberAddress == true &&
+        checkMemberAge == true && checkMemberTel == true && checkMemberEmail == true && checkGender1==true 
+        && checkDOB==true && checkProvince==true)
+    {
+        DetailsCorrectDoList();
+        TextClear();
+    }
+    //is not
+    else
+    {
+        TextFocus();
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+if (int.TryParse(txtAddingAge.Text, out checkValue))
+{
+    int mAge = int.Parse(txtAddingAge.Text);
+    if(mAge>15 && mAge < 50)
+    {
+        txtAddingTelephone.Focus();
+        MemberDetailsError.Clear();
+    }
+    else
+    {
+        MemberDetailsError.SetError(txtAddingAge, "you can't membership this club ");
+        txtAddingAge.Focus();
+    }
+    
+
+}
+else
+{
+    MemberDetailsError.SetError(txtAddingAge, "member age is not valid");
+    //MessageBox.Show("Enter Valid Member Age");
+    txtAddingAge.Focus();
+}

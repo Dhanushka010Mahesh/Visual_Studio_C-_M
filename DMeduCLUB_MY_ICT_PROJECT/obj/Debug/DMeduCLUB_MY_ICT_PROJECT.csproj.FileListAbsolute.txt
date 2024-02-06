@@ -1,0 +1,32 @@
+E:\My Project 2023\DMeduCLUB_MY_ICT_PROJECT\DMeduCLUB_MY_ICT_PROJECT\bin\Debug\DMeduCLUB_MY_ICT_PROJECT.exe.config
+E:\My Project 2023\DMeduCLUB_MY_ICT_PROJECT\DMeduCLUB_MY_ICT_PROJECT\bin\Debug\DMeduCLUB_MY_ICT_PROJECT.exe
+E:\My Project 2023\DMeduCLUB_MY_ICT_PROJECT\DMeduCLUB_MY_ICT_PROJECT\bin\Debug\DMeduCLUB_MY_ICT_PROJECT.pdb
+E:\My Project 2023\DMeduCLUB_MY_ICT_PROJECT\DMeduCLUB_MY_ICT_PROJECT\obj\Debug\DMeduCLUB_MY_ICT_PROJECT.csproj.AssemblyReference.cache
+E:\My Project 2023\DMeduCLUB_MY_ICT_PROJECT\DMeduCLUB_MY_ICT_PROJECT\obj\Debug\DMeduCLUB_MY_ICT_PROJECT.loginWindowForm1.resources
+E:\My Project 2023\DMeduCLUB_MY_ICT_PROJECT\DMeduCLUB_MY_ICT_PROJECT\obj\Debug\DMeduCLUB_MY_ICT_PROJECT.Properties.Resources.resources
+E:\My Project 2023\DMeduCLUB_MY_ICT_PROJECT\DMeduCLUB_MY_ICT_PROJECT\obj\Debug\DMeduCLUB_MY_ICT_PROJECT.csproj.GenerateResource.cache
+E:\My Project 2023\DMeduCLUB_MY_ICT_PROJECT\DMeduCLUB_MY_ICT_PROJECT\obj\Debug\DMeduCLUB_MY_ICT_PROJECT.csproj.CoreCompileInputs.cache
+E:\My Project 2023\DMeduCLUB_MY_ICT_PROJECT\DMeduCLUB_MY_ICT_PROJECT\obj\Debug\DMeduCLUB_MY_ICT_PROJECT.exe
+E:\My Project 2023\DMeduCLUB_MY_ICT_PROJECT\DMeduCLUB_MY_ICT_PROJECT\obj\Debug\DMeduCLUB_MY_ICT_PROJECT.pdb
+E:\My Project 2023\DMeduCLUB_MY_ICT_PROJECT\DMeduCLUB_MY_ICT_PROJECT\obj\Debug\DMeduCLUB_MY_ICT_PROJECT.menuWindowForm.resources
+E:\My Project 2023\DMeduCLUB_MY_ICT_PROJECT\DMeduCLUB_MY_ICT_PROJECT\obj\Debug\DMeduCLUB_MY_ICT_PROJECT.addMemberForm.resources
+E:\My Project 2023\DMeduCLUB_MY_ICT_PROJECT\DMeduCLUB_MY_ICT_PROJECT\obj\Debug\DMeduCLUB_MY_ICT_PROJECT.editAndViewForm.resources
+E:\My Project 2023\DMeduCLUB_MY_ICT_PROJECT\DMeduCLUB_MY_ICT_PROJECT\bin\Debug\MainDatabase.mdf
+E:\My Project 2023\DMeduCLUB_MY_ICT_PROJECT\DMeduCLUB_MY_ICT_PROJECT\bin\Debug\MainDatabase_log.ldf
+E:\My Project 2023\DMeduCLUB_MY_ICT_PROJECT\DMeduCLUB_MY_ICT_PROJECT\obj\Debug\DMeduCLUB_MY_ICT_PROJECT.Notification.resources
+E:\Semasters(1-2) Notes\All Main Projects\DMeduCLUB_MY_ICT_PROJECT\DMeduCLUB_MY_ICT_PROJECT\bin\Debug\MainDatabase.mdf
+E:\Semasters(1-2) Notes\All Main Projects\DMeduCLUB_MY_ICT_PROJECT\DMeduCLUB_MY_ICT_PROJECT\bin\Debug\MainDatabase_log.ldf
+E:\Semasters(1-2) Notes\All Main Projects\DMeduCLUB_MY_ICT_PROJECT\DMeduCLUB_MY_ICT_PROJECT\bin\Debug\DMeduCLUB_MY_ICT_PROJECT.exe.config
+E:\Semasters(1-2) Notes\All Main Projects\DMeduCLUB_MY_ICT_PROJECT\DMeduCLUB_MY_ICT_PROJECT\bin\Debug\DMeduCLUB_MY_ICT_PROJECT.exe
+E:\Semasters(1-2) Notes\All Main Projects\DMeduCLUB_MY_ICT_PROJECT\DMeduCLUB_MY_ICT_PROJECT\bin\Debug\DMeduCLUB_MY_ICT_PROJECT.pdb
+E:\Semasters(1-2) Notes\All Main Projects\DMeduCLUB_MY_ICT_PROJECT\DMeduCLUB_MY_ICT_PROJECT\obj\Debug\DMeduCLUB_MY_ICT_PROJECT.csproj.AssemblyReference.cache
+E:\Semasters(1-2) Notes\All Main Projects\DMeduCLUB_MY_ICT_PROJECT\DMeduCLUB_MY_ICT_PROJECT\obj\Debug\DMeduCLUB_MY_ICT_PROJECT.addMemberForm.resources
+E:\Semasters(1-2) Notes\All Main Projects\DMeduCLUB_MY_ICT_PROJECT\DMeduCLUB_MY_ICT_PROJECT\obj\Debug\DMeduCLUB_MY_ICT_PROJECT.editAndViewForm.resources
+E:\Semasters(1-2) Notes\All Main Projects\DMeduCLUB_MY_ICT_PROJECT\DMeduCLUB_MY_ICT_PROJECT\obj\Debug\DMeduCLUB_MY_ICT_PROJECT.loginWindowForm1.resources
+E:\Semasters(1-2) Notes\All Main Projects\DMeduCLUB_MY_ICT_PROJECT\DMeduCLUB_MY_ICT_PROJECT\obj\Debug\DMeduCLUB_MY_ICT_PROJECT.menuWindowForm.resources
+E:\Semasters(1-2) Notes\All Main Projects\DMeduCLUB_MY_ICT_PROJECT\DMeduCLUB_MY_ICT_PROJECT\obj\Debug\DMeduCLUB_MY_ICT_PROJECT.Notification.resources
+E:\Semasters(1-2) Notes\All Main Projects\DMeduCLUB_MY_ICT_PROJECT\DMeduCLUB_MY_ICT_PROJECT\obj\Debug\DMeduCLUB_MY_ICT_PROJECT.Properties.Resources.resources
+E:\Semasters(1-2) Notes\All Main Projects\DMeduCLUB_MY_ICT_PROJECT\DMeduCLUB_MY_ICT_PROJECT\obj\Debug\DMeduCLUB_MY_ICT_PROJECT.csproj.GenerateResource.cache
+E:\Semasters(1-2) Notes\All Main Projects\DMeduCLUB_MY_ICT_PROJECT\DMeduCLUB_MY_ICT_PROJECT\obj\Debug\DMeduCLUB_MY_ICT_PROJECT.csproj.CoreCompileInputs.cache
+E:\Semasters(1-2) Notes\All Main Projects\DMeduCLUB_MY_ICT_PROJECT\DMeduCLUB_MY_ICT_PROJECT\obj\Debug\DMeduCLUB_MY_ICT_PROJECT.exe
+E:\Semasters(1-2) Notes\All Main Projects\DMeduCLUB_MY_ICT_PROJECT\DMeduCLUB_MY_ICT_PROJECT\obj\Debug\DMeduCLUB_MY_ICT_PROJECT.pdb
